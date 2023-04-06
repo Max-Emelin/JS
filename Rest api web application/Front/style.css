@@ -1,0 +1,85 @@
+body{
+    min-height:97.2vh;
+    width:97%;
+    font-family: 'Noto Sans', sans-serif;
+    line-height:1.4;
+    background-image:linear-gradient(to top, #A9A9A9, #AFEEEE);
+}
+.topText{
+    font-size: 80px;
+    padding: 2%;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    font-size: 50px;
+    border-radius: 10px;
+    margin:10px 40px 0px 40px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Noto Serif', serif;
+    border: 3px solid #474375;
+}
+.button1{
+    font-size: 30px;
+    border-radius: 10px;
+    margin:10px 40px 0px 40px;
+    text-align: center;
+    background-color: chartreuse;
+    font-family: 'Noto Serif', serif;
+    border: 3px solid #474375;
+}
+.button2{
+    font-size: 30px;
+    border-radius: 10px;
+    margin:10px 40px 0px 40px;
+    text-align: center;
+    background-color: crimson;
+    font-family: 'Noto Serif', serif;
+    border: 3px solid #474375;
+}
+table{
+    width: 1300px;
+    margin: auto;
+    font-family:sans-serif;
+    text-align: left;
+    border-collapse:separate;
+    border-spacing:5px;
+    background:#C0C0C0;
+    colour: #00FFFF;
+    border: 16px solid #474375;
+    border-radius:20px;
+}
+th{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    font-family: 'Noto Serif', serif;
+}
+td{
+    text-align: center;
+    background: antiquewhite;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Noto Serif', serif;
+}
+.Header{
+    font-family: 'Noto Serif', serif;
+    font-size: 80px;
+    color: crimson;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
